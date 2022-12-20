@@ -1,0 +1,16 @@
+django
+django-rest-framework
+boto3
+django-storages
+djangorestframework-simplejwt
+django_filter
+django-cors-headers
+django-rest-multiple-models
+django-summernote
+mysqlclient
+pymysql
+sqlparse==0.3.1
+pytz==2020.1
+asgiref==3.2.10
+certifi==2020.4.5.1
+PyJWT==1.7.1
